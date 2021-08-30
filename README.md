@@ -12,7 +12,7 @@
 
 :house_with_garden: I’m from **Suzano, Brazil**.
 
-:books: I’m currently learning **API**.
+:books: I’m currently studying at **Senai de Informática**
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg width="15"> Contact me: thiaguinhohlima2@gmail.com
 
@@ -20,7 +20,7 @@
 
 ## How to find me <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif width="60">
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rike_thiagx/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-henrique-855616213/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rike_thiagx/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-henrique-855616213/) [![Whatsapp Badge](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/5511969801353)
 
 
 
@@ -37,7 +37,7 @@
 
 
 ## Stats :bar_chart:
-[![Thiago Github Stats](https://github-readme-stats.vercel.app/api?username=rike-thiago&theme=dark)](https://github.com/rike-thiago/github-readme-stats) 
-[![Thiago Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rike-thiago&theme=dark)](https://github.com/rike-thiago/github-readme-stats)
+[![Thiago Github Stats](https://github-readme-stats.vercel.app/api?username=rike-thiago&theme=chartreuse-dark&show_icons=true)](https://github.com/rike-thiago/github-readme-stats) 
+[![Thiago Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rike-thiago&theme=chartreuse-dark)](https://github.com/rike-thiago/github-readme-stats)
 
 Thanks!!
