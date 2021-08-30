@@ -8,7 +8,7 @@
 
  
 
-:computer: I'm Begginer Developer!
+:computer: I'm a Beginner Developer!
 
 :house_with_garden: I’m from **Suzano, Brazil**.
 
