@@ -39,3 +39,5 @@
 ## Stats :bar_chart:
 [![Thiago Github Stats](https://github-readme-stats.vercel.app/api?username=rike-thiago&theme=dark)](https://github.com/rike-thiago/github-readme-stats) 
 [![Thiago Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rike-thiago&theme=dark)](https://github.com/rike-thiago/github-readme-stats)
+
+Thanks!!
