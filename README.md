@@ -35,8 +35,10 @@
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
+
 ## Stats :bar_chart:
-[![Thiago Github Stats](https://github-readme-stats.vercel.app/api?username=rike-thiago)](https://github.com/rike-thiago/github-readme-stats) [![Thiago Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rike-thiago&layout=compact)](https://github.com/rike-thiago/github-readme-stats)
+[![Thiago Github Stats](https://github-readme-stats.vercel.app/api?username=rike-thiago&theme=dark)](https://github.com/rike-thiago/github-readme-stats) 
+[![Thiago Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rike-thiago&layout=compact&theme=dark)](https://github.com/rike-thiago/github-readme-stats)
 
 
 
