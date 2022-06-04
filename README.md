@@ -16,7 +16,7 @@
  
 ## How to find me <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif width="60">
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&target=_blank)](https://www.instagram.com/rike_thiago/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&target=_blank)](https://www.linkedin.com/in/thiago-henrique-855616213/) [![Whatsapp Badge](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&target=_blank)](/wa.me/5511969801353) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&target=_blank)](https://www.instagram.com/rike_thiago/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&target=_blank)](https://www.linkedin.com/in/thiago-henrique-855616213/)
 
 
 ## Tools <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif width="30">
